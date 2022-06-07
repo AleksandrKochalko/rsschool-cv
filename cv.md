@@ -14,10 +14,10 @@
    * базовые знания JavaScript;
 
 5. **Пример кода:**
-<function helloWorld() {
+```function helloWorld() {
       return Hello World!;
 };
-helloWorld();>
+helloWorld();```
 
 6. **Опыт работы:** [Мое CV в формате markdown](https://AleksandrKochalko.github.io/rsschool-cv/cv)
 
