@@ -1,6 +1,6 @@
 # rsschool-cv #
 
-1. Александр Кочалко
+1. **Имя:**Александр Кочалко
 
 2. **Контакты:**
 * *почта:* alexwin173451@gmail.com
@@ -14,13 +14,12 @@
 * базовые знания JavaScript;
 
 5. **Примеры кода:**
-` function helloWorld() {
-      return 'Hello World!';
+<function helloWorld() {
+      return Hello World!;
 };
+helloWorld();>
 
-helloWorld();`
-
-6. **Опыт работы:** [Мое CV в формате markdown] (https://AleksandrKochalko.github.io/rsschool-cv/cv)
+6. **Опыт работы:** [Мое CV в формате markdown](https://AleksandrKochalko.github.io/rsschool-cv/cv)
 
 7. **Образование:**
 Высшее (очное) 2004-2009г.г. Белорусский Национальный Технический Университет
