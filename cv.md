@@ -14,7 +14,8 @@
    * базовые знания JavaScript;
 
 5. **Пример кода:**
-```function helloWorld() {
+```
+function helloWorld() {
       return Hello World!;
 };
 helloWorld();
