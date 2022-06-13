@@ -1,0 +1,144 @@
+* {
+      padding: 0;
+      margin: 0;
+}
+
+/* @font-face {
+      font-family: Roboto;
+       src: url("assets/fonts/Roboto.ttf");
+}; */
+
+.wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+
+      max-width: 80%;
+      width: 620px;
+      height: 877px;
+      margin: 40px auto;
+      background-color: aliceblue;
+}
+
+a {
+      text-decoration: none;
+}
+
+.header {
+      background-color: black;
+      height: 60px;
+      margin-bottom: 50px;
+}
+
+.header h1 {
+      display: flex;
+      align-items: center;
+      font-family: Kanit;
+      font-weight: 900;
+      font-style: italic;
+      font-size: 18px;
+      height: 100%;
+      text-transform: uppercase;
+      color:aliceblue;
+      margin-left: 55px;
+}
+/* 
+ul li {
+      float: left;
+} */
+
+.chapter {
+      font-family: Kanit;
+      font-weight: 900;
+      letter-spacing: 5px;
+      margin-bottom: 10px;
+}
+
+.main {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      height: 100%;
+      margin: 0 20px 50px;
+}
+
+.main-about {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: black;
+      color: aliceblue;
+      width: 50%;
+}
+
+.main img {
+      width: 70%;
+      border-radius: 5px;
+      margin: 40px 0 40px;
+}
+
+.main-about-contacts {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 70%;
+      height: 35%;
+}
+
+h2 {
+      font-family: Kanit;
+      font-weight: 900;
+      text-align: center;
+      text-transform: uppercase;
+      border-top: 1px solid black;
+      border-bottom: 1px solid black;
+}
+
+.main-skills {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: start;
+      
+      width: 50%;
+      margin: 0 40px 0;
+}
+
+p {
+      font-size: 14px;
+      font-weight: bold;
+      text-transform: uppercase;
+}
+
+.footer p {
+      font-family: Kanit;
+      color: aliceblue;
+      margin-left: 40px;
+}
+
+.footer {
+      display: flex;
+      justify-content:  space-between;
+      align-items: center;
+      background-color: black;
+      height: 60px;
+}
+
+.footer a {
+      color: aliceblue;
+      font-size: 14px;
+}
+
+.footer img {
+      height: 40px;
+}
+
+.footer-nav-link {
+      display: flex;
+      align-items: center;
+      flex-basis: 80%;
+      justify-content: space-between;
+      font-family: Kanit;
+      margin-right: 40px;
+}
+
